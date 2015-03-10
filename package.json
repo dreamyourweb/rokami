@@ -5,6 +5,7 @@
   "author": "Bram den Teuling <bramdenteuling@gmail.com>",
   "description": "Orikami's robot",
   "dependencies": {
+    "cron": "^1.0.9",
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
@@ -18,7 +19,8 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "time": "^0.11.1"
   },
   "engines": {
     "node": "0.10.x"
